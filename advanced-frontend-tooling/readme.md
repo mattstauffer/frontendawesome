@@ -45,17 +45,17 @@
  * Sass
 
 # Links
-http://www.iterm2.com/
-https://github.com/robbyrussell/oh-my-zsh
-http://github.com/
-https://developer.yahoo.com/yslow/
-http://nodejs.org/download/
-https://rvm.io/
-https://getcomposer.org/
-http://bower.io/
-http://sass-lang.com/
-https://github.com/guard/guard
-http://gruntjs.com/
-http://gulpjs.com/
-http://www.vagrantup.com/
-https://incident57.com/codekit/
+ * [http://www.iterm2.com/](http://www.iterm2.com/)
+ * [https://github.com/robbyrussell/oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
+ * [http://github.com/](http://github.com/)
+ * [https://developer.yahoo.com/yslow/](https://developer.yahoo.com/yslow/)
+ * [http://nodejs.org/download/](http://nodejs.org/download/)
+ * [https://rvm.io/](https://rvm.io/)
+ * [https://getcomposer.org/](https://getcomposer.org/)
+ * [http://bower.io/](http://bower.io/)
+ * [http://sass-lang.com/](http://sass-lang.com/)
+ * [https://github.com/guard/guard](https://github.com/guard/guard)
+ * [http://gruntjs.com/](http://gruntjs.com/)
+ * [http://gulpjs.com/](http://gulpjs.com/)
+ * [http://www.vagrantup.com/](http://www.vagrantup.com/)
+ * [https://incident57.com/codekit/](https://incident57.com/codekit/)
